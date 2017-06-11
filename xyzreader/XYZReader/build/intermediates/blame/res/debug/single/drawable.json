@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_background_protection.xml",
+        "source": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\photo_background_protection.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\77ebfa92f177006046992e9f79fd6d71951df134\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\31df9a909e8ae53f4e133fc8139d97437d4259f7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\5b4ff346180b16a53506f3c7bfd2ade82c785b4d\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\31df9a909e8ae53f4e133fc8139d97437d4259f7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\77ebfa92f177006046992e9f79fd6d71951df134\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\padded_divider.xml",
+        "source": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\padded_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\5b4ff346180b16a53506f3c7bfd2ade82c785b4d\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\white_selectable_item_background_circle.xml",
+        "source": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\add_fab_background.xml",
+        "source": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\add_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\eeae12aa7fcd695f3779f7a27a2a293727a89e77\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\QHH\\.android\\build-cache\\7640cc4ad0ed04c51b0277cea1e33ab45209881a\\output\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    }
+]

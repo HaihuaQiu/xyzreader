@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_f569eb1620d7a8d7ab92e20db9b33df7b5441c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\3de6c7e10550aef3c7f82bad772491b7f810eca4\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_de6566e588f30398d812f52206ddb7c3b01e3cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\2b53c36a00fd030748888af4cc784900fd550746\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_a60ea86b04e4b16fc921193e878be0e81413cfa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\575137676da7f206c3903802401a289e99f607c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_1da92765b3f12c9a634ad7814ff540b39ff9b515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\3f38745d3cc10865b6509d9c93beb7d2adf6d0de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_20b12c20a2a9beac34ca753fe99e65759ca4c931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.0.1_24c7383328e7ddb2a662ed40bf8bfa42acf194a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_a6c800cbfaeb05772454fbc320e3792af849f752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\3de6c7e10550aef3c7f82bad772491b7f810eca4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_2beb38038632605a66813dd1da05cc880a5a12ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\e652fffdc8b317dd586786b099d9654219b4e0bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_bf5e162555868ca1f394ceb7e0676301c352353f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\77ebfa92f177006046992e9f79fd6d71951df134\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_c43f2e808e4fad8f77c3ac0bd6967c5beadc0bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_8e6b157f6484cda73753c83d77d5ee0f24c7d23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\575137676da7f206c3903802401a289e99f607c7\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_37cfb69580c83f5853a70dbd7e86a4ec0dc286ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1270bd46f9a22b3937bc06a6e56ac2cccdb8b272">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a15feda5eebdb778b5ee846ef4f26f189c27a581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_f569eb1620d7a8d7ab92e20db9b33df7b5441c83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\QHH\.android\build-cache\eeae12aa7fcd695f3779f7a27a2a293727a89e77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_bceb97943f65eb61b4e7543b69a3eb5011d0c8ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\QHH\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_759d6370d98af5bbb5331c82276b2004074ca13c\classes.dex" />
+    </item>
+
+</items>
