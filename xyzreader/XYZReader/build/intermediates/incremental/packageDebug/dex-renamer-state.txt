@@ -1,4 +1,4 @@
-#Sun Jun 11 13:44:25 CST 2017
+#Mon Jun 12 18:25:08 CST 2017
 base.0=C\:\\Users\\QHH\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a15feda5eebdb778b5ee846ef4f26f189c27a581
 renamed.1=classes2.dex
 renamed.0=classes.dex

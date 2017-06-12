@@ -6,6 +6,7 @@
 
     <com.example.xyzreader.ui.ObservableScrollView
         android:id="@+id/scrollview"
+        android:nestedScrollingEnabled="true"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -30,7 +31,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="128dp"
+                android:layout_marginTop="112dp"
                 android:background="#fff"
                 android:elevation="2dp"
                 android:maxWidth="@dimen/detail_card_max_width"
@@ -41,10 +42,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
-                    android:layout_marginBottom="@dimen/detail_metabar_vert_padding"
                     android:background="#333"
                     android:orientation="vertical"
-                    android:paddingBottom="@dimen/detail_metabar_vert_padding"
                     android:paddingLeft="16dp"
                     android:paddingRight="@dimen/detail_inner_horiz_margin"
                     android:paddingTop="@dimen/detail_metabar_vert_padding">
@@ -98,6 +97,7 @@
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/share_fab"
+        app:layout_behavior="com.example.xyzreader.ui.ScrollAwareFABBehavior"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
@@ -107,6 +107,6 @@
         android:src="@drawable/ic_share"
         app:elevation="6dp"
         app:fabSize="normal"
-        app:pressedTranslationZ="12dp" />
+        app:pressedTranslationZ="6dp" />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
